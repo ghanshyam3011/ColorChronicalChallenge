@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+}
+.outer{
+    display: flex;
+    justify-content: center;
+}
+.btn{
+    width: 200px;
+    height: 200px;
+    border: 8px solid black;
+    border-radius: 20%;
+    margin: 2rem;
+}
+.green{
+    background-color: green;
+}
+.pink{
+    background-color: pink;
+}
+.blue{
+    background-color: skyblue;
+}
+.orange{
+    background-color:orange ;
+}
+.flash{
+    background-color: white;
+}
+.userFlash{
+    background-color: yellow;
+}
+.gmOverFlash{
+    background-color: red;
+}
+h3{
+    color: red;
+}
